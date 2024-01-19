@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<head>
+<title>
+<www class="M_Gees_wardrobe com">
+</www>
+</title>
+<body>
+    <!--heading one-->
+    <h2>
+M-GEES WARDROBE
+    </h2>
+    <!--paragraph 1-->
+    <p1>We are thrilled to introduce M-Gees Wardrobe, your premier destination for fashion-forward ladies' and gents' wear. At M-Gees Wardrobe, we are dedicated to providing our customers with a curated selection of high-quality suits, Lacostes, and an array of stylish apparel that caters to the diverse tastes of our clientele.
+        Our commitment to excellence extends to every aspect of our business, from the meticulous selection of garments to our unparalleled customer service. Whether you're seeking the perfect suit for a formal occasion or looking to elevate your casual wardrobe with trendy Lacostes, M-Gees Wardrobe has you covered.
+    </p1>
+    <p2>
+        <!--p2 and h3-->
+<h3>Key Features of M-Gees Wardrobe</h3>
+<!--ordered list-->
+<ol>
+    <li>Extensive Collection: Explore our extensive collection of ladies' and gents' wear, featuring a diverse range of styles, colors, and sizes to suit every preference</li>
+<li>Quality Assurance: We take pride in offering garments made from premium materials, ensuring both comfort and durability in every piece.</li>
+<li>Fashion Expertise: Our team of fashion enthusiasts is here to assist you in making the right choices. Whether you need styling advice or assistance with sizing, we are committed to providing a personalized shopping experience.</li>
+<li>Competitive Pricing: Enjoy competitive pricing without compromising on the quality of your fashion choices. M-Gees Wardrobe aims to make stylish apparel accessible to everyone</li>
+<li>Convenient Shopping: Browse our collection conveniently online or visit our physical store [include address] for an immersive shopping experience.</li>
+</ol>
+    </p2>
+</body>
+<body>
+    <h3>
+        PRODUCTS
+    </h3>
+<!--ordered list-->
+<ol>
+    <li>
+        lacoste
+    </li>
+    <li>T-shirt</li>
+<li>slippers</li>
+<li>kaftan</li>
+</ol>
+<!--undered list-->
+<ul>
+    <li>lacoste
+    </li>
+    <li>t-shirt</li>
+    <li>kaftan</li>
+    <li>slippers</li>
+
+</ul>
+<!--nested list-->
+<ol>
+    <li>T-shirt</li>
+    <ul>
+        <li>Medium size</li>
+        <li>Large size</li>
+        <li>X-large</li>
+        <li>XX large</li>
+        <li>XXX large</li>
+        <ol>
+            <li>Slippers sizes</li>
+            <ul>
+                <li>36</li>
+                <li>38</li>
+                <li>43</li>
+                <li>35</li>
+                <li>42</li>
+            </ul>
+        </ol>
+    </ul>
+</ol>
+<!--local images-->
+<p><img src="Images/pexels-tembela-bohle-1884583.jpg" alt="Nature image"width="200px"height="200" >
+    <!--remote pictures-->
+    <img src="https://pictures-ghana.jijistatic.com/35863583_NjIwLTYyMC1jMDE1NzYwN2EwLTE.webp" alt="nature image"width="200"height="200">
+    </p>
+<p3>
+    Join us at M-Gees Wardrobe in redefining your fashion journey. Discover the perfect blend of elegance and comfort with our carefully curated selection. Follow us on [social media handles] for the latest updates, promotions, and style inspiration.
+</p3>
+<p>Loc;Awoshie-Barnyard Opp.Victory Bible Church Int.</p>
+<!--Contact details-->
+<p>Email:mensahgershon864@gmail.com
+</p>
+<p>Tel:+233 551 52 2828</p>
+<p>
+    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMwAAADACAMAAAB/Pny7AAAAclBMVEUYd/L///8AcPHz9v4AbvEAaPGzyfrx9/4SdfLd6PwAa/IvffP8/f+YvPj4+/4AbfK6zvrl7v3r8v5xpfawy/rF2Psvg/NWlPRcl/RuofaLsvfV5PxMj/QefvKQt/ikwvkAYvG70/rO3vuFrfdjnPVBifRzmLfyAAAEuElEQVR4nO3d2XaqMBQG4BChhCnIqAJKcXj/VzxgrUOPNkgJe4eV/6beuFa+JkDMBDFu4SmhjCgURknK7wDk9jFOLKUoXZiVxM8w8cqFLtqQuKv4f4yjpqXTOD8xztqELtXQmGvnERNtKHSZhoduonuMXyh36d+HFf4dJvXUxnjpDVNWCjeyLrQqvzG8CJWumLZqwoJfMBlR3NJqSPaFiZMQuix/T9j1BFrMXv2K6apm32H4QdFH/2PcA28x0XYGFdNWzTZqMcsZXDFdwqVB/ETZTtljzMQnfB6trGtnnDizuPy7uA5JLehCjBUrJbv51MyOHBXvY95Cj6SayfXf3gEqks8HkxMPugzjZUYUHR0dHZ0/hz38UTSMMErNMAzNc8KvT5QyphyMUZNuq00R1OnynLSug12RHKvTltBOxRQhsdDNN0FTOrHN/esUkc+5HUdOWWZNXSSrnKnQj2cWS7Iovp+E/BluL+KoxD8qQa08tX+D3BIg/73IzCrrBemaHW4Mo6e0LwU7hnmHqL8FN4ZWzRsU3BhzU75lwYxxk3eaGG6Me4jFxVcDw9zEfteCFhOu321jeDH05IjLrgiGeb2f+vgxdNevL6YChq6GNDKcmO8FLfPAHN9+wqDFMG85zIISs3r/cYkVw1g90IIR4w28YlBijkMtCDFhMyMMHWzBh6Hrt8rPH4INY/W+l8Vlln7UwV3qNbIhTbff736eBZtqy+hjkA02M9Lribk/5PRr+P8h0KX/EVr1qZb6ZKIr+ZOYPZ4yi4KoQOkWGAktfoDt2ngVqxFilmpUSxtrL7I4K2T335dhwjuzn6KfULomFA2XxcpUTHs3E/X/S3UsxBQ8M32VlrnSxe8YrtLGECFGpa1UIsxCpT1uQoxCFaMxaKMxWKMxWKMxWKMxWKMxWKMxWKMxWKMxwHGtF/kUYT5ffbMN0PBA8PEqgrVZ/OUXPz6WINtgmTdgzWKPgBxQwLxh68kE4SCDnZIwzueMMDDD0JIwMKctSMLALGmQhIE5oEAOhsNscJSDiWBmbuRgGpiZWzmYAKYPKgeTzAkDdHSMFAwHOjpGCiYCmu2UgslAKJIw9ZwwxZwwCdAIgAyMDbXaSQbGOc2oZjKoE8pkYMAOjpaBCWAocjAHqNVOEjAc7Nx4CZgIbB2qBEwJdWcmxCu5/SKiUj//Fk/hDsJl1Hye0BJNaVjh0y9CTtu8+jcyU4Qx9RpNmGgM1mgM1mgM1mgM1mgM1mgM1mgM1mgM1mgM1mgM1mgM1mgM1mgM1mgM1mgM1mgM1mgM1mgM1mgM1kBhpKxWg8F4ct50CoPJ5byDFgTDKiJluRoIhm6IlMORQTBuIOeN2iAYK5XzrnOYmnGIlN03EBiWc2LIeBMfBMZMDGI0EjZGQmDCpsVEEtoZAIblUYvhxfi3AABMWPAWY+zH755Nj2He3ugw9mH0qpke4x7sM0ZC1UyOOVfMGcNH3088OYYG/IIZ/8DxqTGXF3edMUYz8u15YgzbNsYN4+/Uxuz8O4wRj7tzfVoMTS5Hql8wRnwcs4s2Kca8vlDtG2PE6xF/2EyJsdbXo+6vGMM+jqeZEGMdbzuPbpi2kzZa/3k6TNclu+YfkUdPnZ8qbt8AAAAASUVORK5CYII=" alt="Nature image"width="20px" height="20px">
+brahgershon GB</p>
+<p><img src="data:image/jpeg;base64,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" alt="Nature image" width="20px"height="20px"</p>
+<a href>=https://www.instagram.com/brahgershongb?igsh=bjg4Y3YyaGQxczlo</a>
+<p>
+    <img src="https://img.freepik.com/free-vector/twitter-new-2023-x-logo-white-background-vector_1017-45422.jpg?size=626&ext=jpg" alt="Nature image"width="20px"height="20px">
+Brah Gershon GB
+</p>
+<p>Thank you for considering M-Gees Wardrobe as your go-to destination for ladies' and gents' wear. We look forward to serving you and helping you express your unique style</p>
+<p><strong><em>M-Gees Wardrobe;I Have Your Choice!</em></strong></p>
+</body>
+</head>
